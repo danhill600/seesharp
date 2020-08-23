@@ -225,3 +225,5 @@ project.lock.json
 #####
 HelloWorld/bin
 Hellworld/obj
+*/obj/*
+*/bin/*
